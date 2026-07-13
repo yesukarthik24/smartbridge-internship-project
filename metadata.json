@@ -1,0 +1,6 @@
+{
+  "name": "AI-Enabled Student Admission System",
+  "description": "An intelligent student admission platform featuring AI-powered document verification, eligibility prediction, dynamic chatbots, Salesforce CRM tracking, and a comprehensive admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
